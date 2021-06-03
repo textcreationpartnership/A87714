@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe remonstrance of the reasons and grounds of those people commonly called Anabaptists, for their seperation, &amp;c. Or certaine queries concerning their faith and practice, propounded by Mr. Robert Poole; answered and resolved by William Kiffin.</title>
+            <author>Kiffin, William, 1616-1701.</author>
+         </titleStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87714</idno><idno type="EEBO-CITATION">99860977</idno>
+  <idno type="VID">113104</idno>
+  <idno type="EEBO-PROQUEST">2240860282</idno>
+  
+            <idno type="STC">Wing K423</idno>
+            <idno type="STC">Thomason E293_31</idno>
+            <idno type="STC">ESTC R200172</idno>
+            <idno type="PROQUEST">99860977</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860977e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87714)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113104)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E293[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe remonstrance of the reasons and grounds of those people commonly called Anabaptists, for their seperation, &amp;c. Or certaine queries concerning their faith and practice, propounded by Mr. Robert Poole; answered and resolved by William Kiffin.</title>
+                  <author>Kiffin, William, 1616-1701.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed and published for publike information in the yeere 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In the preface to his "A looking glasse for the Anabaptists and the rest of the separatists" (Wing R1430) Josiah Ricraft claims that he actually propounded these queries, "in behalfe of a friend of neere relation", i.e. Mr. Robert Poole.</note>
+                  <note>Annotation on Thomason copy: "July (London) 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anabaptists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113104:1"/>
+            <p>A Briefe REMONSTRANCE <hi>OF</hi> The <hi>REASONS</hi> and <hi>GROƲNDS</hi> of those People commonly <hi>Called</hi> ANABAPTISTS, for their Seperation, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Or Certaine</hi> QUERIES Concerning their <hi>FAITH</hi> and <hi>PRACTICE,</hi> propounded by Mr. <hi>ROBERT POOLE;</hi> Answered and Resolved By <hi>WILLIAM KIFFEN.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 Pet. 3.15.</hi>
+               </bibl>
+               <p>Sanctifie the LORD GOD in your hearts, and be ready alwayes to give an answer to every man that asketh you a reason of the hope that is in you, with meeknesse and feare.</p>
+            </q>
+            <p>Printed and published for publike Information in the Yeere 1645.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:113104:2"/>
+            <pb facs="tcp:113104:2"/>
+            <head>
+               <hi>THE</hi> PRINTER TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Copy of this Discourse comming accidentally in<g ref="char:EOLhyphen"/>to my hands, and upon the perusall thereof, conceiving it tended much to the vindication of the People of God, and Information of the ignorant, concerning the Order of the Gospel, I therefore was emboldened to Remonstrate the same unto the whole world, that the vertue thereof might not be smothered with me, but communicated to the publike benefit, and the professors thereof freed from the injurious Censure and Contumilie of the World: I need not much glosse it ouer with commendations, the better to invite thee to a serious examinati<g ref="char:EOLhyphen"/>on thereof; I hope its own worth will speake better for it selfe, and prove more prevalent to the ingenious and moderate peruser, then mine applause: I will not further ingage my selfe in its praise, yet if the word of the Printer to the READER may passe, the perusall is worth thy paines, and the matter worth thy tryall, and the LORD put it into thy heart to hold fast that
+<pb facs="tcp:113104:3"/> which is good; As in another <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se it was said, <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Jo<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b <hi>with thee in all this?</hi> S<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mitting these <hi>QUERIES propounded by Master</hi> ROBERT POOLE, <hi>I will not</hi> aske what <hi>Synodean</hi> Interest there is with him therein, much lesse affirm it, lest I trespasse too far upon the Authority of mine In<g ref="char:EOLhyphen"/>telligence; for I dare not be too positive, where neither mine eye nor my ears are privy to the Counsell, you I may be bold in my con<g ref="char:EOLhyphen"/>ceptions, <hi>for thought is free,</hi> but <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e they <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are, or fro<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whomsoever; I commit thee to the grace of GOD, in the consideration of what followeth. [{inverted ⁂}]</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:113104:3"/>
+            <head>
+               <hi>TO</hi> Mr. ROBERT POOLE, <hi>Salutations, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> According to your Daughters &amp; Servants desires, was willing to give a meeting to any friends you should bring, that wee might fairly and louingly declare our thoughts from the Scripture, concer<g ref="char:EOLhyphen"/>ning the subjects of Baptisme, as desiring that you might thereby, hearing, try all things, and hold fast that which is good; but in stead thereof, I found onely those, whose mouthes were filled with bitternesse, and I have cause to fear, their hearts as full of hatred against those, that in this thing are contrary minded to them, which to me did appeare, by their charging of me with being a Seducer, a Blasphemer, and such like termes, as if the end of their comming, had been ra<g ref="char:EOLhyphen"/>ther to raile then reason, and though what I said, was as ap<g ref="char:EOLhyphen"/>parent as the Light, yet were they pleased to charge it with no lesse then Blasphemy, although I think, upon serious con<g ref="char:EOLhyphen"/>sideration, in coole blood, they would be ashamed of that charge; I shall forbeare to mention those many things, which by them went under that name, and present only one to your memory, to shew to whom you please, <hi>(viz.)</hi> That it was essentiall to true justifying faith, for us to beleeve, <hi>that JESƲS CHRIST, as man, proceeded from the loines of Abraham:</hi> This was the Position which was charged by him for Blas<g ref="char:EOLhyphen"/>phemy, which if they please, I shall appeale to the whole <hi>Synod</hi> in this thing, whether it be true or no; and truly for my part, I beleeve it so apparently true, that hee which shall deny this, must denie Christ; but to let passe all such kind of
+<pb n="2" facs="tcp:113104:4"/> Calumnies as these are, it being not the end of my writing, to present them to you; but rather seeing wee have made a beginning, I here present these ensuing <hi>Queries</hi> to you, in<g ref="char:EOLhyphen"/>treating an Answer to the same.</p>
+            <p n="1">1. Querie. <hi>Whither the Institution of Circumcision, be the Institution of Baptisme? or whither there be not a new Institu<g ref="char:EOLhyphen"/>tion? And if a new Institution; Whither wee are not to di<g ref="char:EOLhyphen"/>spence Baptisme upon those subjects only, which the new Instituti<g ref="char:EOLhyphen"/>on holds forth?</hi>
+            </p>
+            <p n="2">2. Querie. <hi>Whither this new Institution, holds any other as the true subjects of Baptisme, but Persons Discipled or taught; and if not, Whither any other ought to be Baptised?</hi>
+            </p>
+            <p n="3">3. Querie. <hi>Whither God hath appointed the Ordinance of Baptisme, as a meanes to conferre Grace, or as a signe to confirme the Grace which is conferred; and whither wee have any ground to judge persons have grace conferred upon them, but by profes<g ref="char:EOLhyphen"/>sion of Faith?</hi>
+            </p>
+            <p n="4">4. Querie. <hi>Whither the Gospel owneth any other seed as the Children of</hi> Abraham, <hi>but a spirituall seed; and whither the spi<g ref="char:EOLhyphen"/>rituall seed be not only such as beleeue; and whither this Ordi<g ref="char:EOLhyphen"/>nance of Baptisme doth not particularly belong to this spirituall seed; and how the Children of Beleeving Gentiles may be said to be this spirituall seed?</hi>
+            </p>
+            <closer>
+               <signed>WILL. KIFFEN.</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>¶ Mr. POOLES ANSWER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received a written Paper, with your Name subscribed thereunto, with certaine groundlesse Queries, as you say were the desire of some, for my satisfaction; to which I returne you this Answer, That my selfe being the party Inju<g ref="char:EOLhyphen"/>red, have just cause to receive satisfaction from you and your parties, that have done me the Injurie, in seducing my
+<pb n="3" facs="tcp:113104:4"/> Children and servants into your errours; therefore I con<g ref="char:EOLhyphen"/>ceive it to be equall, and necessary, that you should give me substantiall and cleere Answers out of the Word of God, to these my ensuing queries; which if you doe refuse, I shall im<g ref="char:EOLhyphen"/>pute it to your unabilitie.</p>
+            <p n="1">1. Querie. <hi>By what warrant of the Word of God doe you sepe<g ref="char:EOLhyphen"/>rate from our Congregations, where the Word and Sacraments are purely dispenced?</hi>
+            </p>
+            <p n="2">2. Querie. <hi>By what Scripture Warrant doe you take upon you to erect new framed Congregations, seperated to the distur<g ref="char:EOLhyphen"/>bance of the great Worke of Reformation now in hand.</hi>
+            </p>
+            <p n="3">3. Querie. <hi>What warrant have you either to be a member, much lesse Minister of any such separate Congregation?</hi>
+            </p>
+            <p n="4">4. Querie. <hi>What warrant have you to admit into your se<g ref="char:EOLhyphen"/>perate Congregations sillie seduced Servants, Children or People.</hi>
+            </p>
+            <p n="5">5. Querie. <hi>How can you vindicate by the Word of God your Anabaptisticall way, from the sinfull guile of notorious Schisme, and defection from all the Reformed Churches.</hi>
+            </p>
+            <p n="6">6. Querie. <hi>Whether you, and such like pretended Teachers as you are, be not the Persons Carractrised and condemned in these and such like Scriptures following, Matth.</hi> 7.15. <hi>Act.</hi> 20.29, 30. <hi>Rom.</hi> 16.17, 18. 2 <hi>Tim.</hi> 3.6, 7, 8, 9. 2 <hi>Pet.</hi> 2.1, 2, 3.17, 18, 19. <hi>Jude vers.</hi> 4.8.10.12, 13.16.</p>
+            <p>These Queries I propound, that truth may tryumph, and error may vannish, and that my self and my deluded ones may receive satisfaction, which if you doe not, I desire you, as you will answere it before God and men, that you doe neither admit or receive any of mine into your pretended Church, and if you have, I demand of you or yours, in whom the Power lies, suddenly; at or upon the fight hereof, to dis<g ref="char:EOLhyphen"/>charge them, and leave them to the Power of me, who have the charge of them; and in expectation hereof, I shall rest as I find you.</p>
+            <closer>
+               <signed>Robert Poole.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:113104:5"/>
+            <head>¶ Mr. KIFFENS REPLY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received your Note, wherein (contrary to my ex<g ref="char:EOLhyphen"/>pectation, in stead of an Answer to those Queries I sent you; I find others propounded by you, under this consideration (as you say) <hi>that truth may triumph, and error may vanish, and that you and yours may receive satisfaction;</hi> I shall not need to speak, for I hope my actions shall at all times manifest the earnest desire of my soule, and willingnesse of Spirit, to give satisfaction (so farre as God hath given me Light) to every just demand, both for the vindicating of that truth wee desire to walke in, as also to satisfie (if possibly by the Word of God I may) every mans Conscience, that shall any wayes scruple or oppose it: And so not willing to descant further upon Circumstances in your writing, or too narrow<g ref="char:EOLhyphen"/>ly to prey into such Expressions therein, as too much mani<g ref="char:EOLhyphen"/>fest a spirit lifted up in his owne conceit, and much invetera<g ref="char:EOLhyphen"/>ted against us and our Practise, knowing it is the com<g ref="char:EOLhyphen"/>mon portion of such that will live godly in <hi>CHRIST JE<g ref="char:EOLhyphen"/>SƲS;</hi> I passe them by, and so come to answer your de<g ref="char:EOLhyphen"/>mands.</p>
+            <div n="1" type="query">
+               <head>
+                  <hi>QUERIE I.</hi> By what warrant of the Word of God, doe you seperate from our Congregations, where the Word and Sacraments are purely dispensed?</head>
+               <p>
+                  <hi>Ans.</hi> This Querie seems to import thus much; that from such Congregations, where the Word and Sacraments are purely dispensed, men ought not to seperate, but that men are and ought to seperate from such, where the Word and Sacraments are not purely dispensed, your Querie seems to grant, but how ever, though it should be denied, these Scrip<g ref="char:EOLhyphen"/>tures
+<pb n="5" facs="tcp:113104:5"/> plainly prove it, <hi>Rev.</hi> 14.8, 9, 10. more fully manifested in <hi>Revel.</hi> 18.1, 2, 3, 4, 5. <hi>Esai.</hi> 52.2. and more at large spoken of, 2 <hi>Cor.</hi> 6.14. to the end; as also practised by the Apostle <hi>Paul</hi> himself, in <hi>Acts</hi> 19.8, 9, 10. But now, <hi>Sin,</hi> here lies the que<g ref="char:EOLhyphen"/>stion; If your Congregations be such, as where the Word and Sacraments are purely dispenced, then we sinne, and you justly charge us with Schisme, for separating from you, but if it be not so, that your Congregations are such, but on the contrary, even such as doe not dispense the Word and Sacra<g ref="char:EOLhyphen"/>ments purely, then we doe well, and you sinne in charging us with Schisme, in doing what the Word commands, and the Saints practised, and therefore wee having nothing to prove that the Word, and Sacraments are purely dispensed a<g ref="char:EOLhyphen"/>mongst you, but your bare affirmation, it cannot satisfie our Consciences; and I marvell how it satisfieth yours: Doth not the Word of God, like a two-edged Sword fight against you? May not that Scripture justly be applyed to you <hi>Jere.</hi> 7.8, 9, 10. <hi>Behold, ye trust in lying words that cannot profit: Will ye steal, murder, and commit adultery, and swear falsely, and burn Incense unto</hi> Baal, <hi>and walk after other gods whom ye know not; And come and stand before mee, &amp;c.</hi> For doe you not daily admit and suffer to be amongst you such as doe according to Gods Word, <hi>Leaven the whole lumpe,</hi> 1 <hi>Cor.</hi> 5.6. and doe not purely dispence the Word upon them for their healing; the Spirit of Christ saith, such glorying is not good, and the feast of the Lord ought not to be kept with them: and I pray you shew me what Gospel Institution have you for the Baptizing of Children, which is one of your <hi>great Sacra<g ref="char:EOLhyphen"/>ments</hi> amongst you; what can you finde for your practise therein, more then the durty puddle of <hi>mens Inventions</hi> doth afford; and therefore when your Sacraments are purely Ad<g ref="char:EOLhyphen"/>ministred according to the pure Institutions of the Lord Je<g ref="char:EOLhyphen"/>sus, and when you have dispensed the Word and Power of Christ, for the cutting off all Drunkards, Fornicators, Co<g ref="char:EOLhyphen"/>vetous, Swearers, Lyars, and all abominable and filthy per<g ref="char:EOLhyphen"/>sons, and stand together in the faith, a pure lumpe of Belee<g ref="char:EOLhyphen"/>vers,
+<pb n="6" facs="tcp:113104:6"/> gathered and united according to the Institution of Christ, wee (I hope,) shall joyne with you in the same Con<g ref="char:EOLhyphen"/>gregation and Fellowship, and nothing shall seperate us but death, but till then we shall by the grace of God, continue our seperation from you, according to the light wee have re<g ref="char:EOLhyphen"/>ceived, desiring your perusall of these Scriptures, as an addi<g ref="char:EOLhyphen"/>tion to those formerly quoted, wherein we have sufficient te<g ref="char:EOLhyphen"/>stimony, comparing them with your practise, that the Word and Sacraments are not purely dispenced amongst you 2 <hi>Thess.</hi> 3.6. <hi>Ephes.</hi> 5.3, 4, 5.11. <hi>Gal.</hi> 5.9.12. 2 <hi>Cor.</hi> 6.14. 1 <hi>Cor.</hi> 5.4, 5, 6. <hi>Act.</hi> 2.40.</p>
+            </div>
+            <div n="2" type="query">
+               <head>
+                  <hi>QUERIE II.</hi> By what Scripture warrant doe you take upon you to erect now framed Congregations, seperated to the disturbance of the great Worke of Reformation now in hand?</head>
+               <p>
+                  <hi>Ans.</hi> This querie hath in it these two parts, 1. That wee erect new framed Seperate Congregations. 2. Wee doe by this disturbe the great Worke of Reformation now in hand.</p>
+               <p>To the first, it is well knowne to many, especially to our selves; that our Congregations were erected and framed as now they are, according to the Rule of Christ, before wee heard of any Reformation, even at that time when Episcopa<g ref="char:EOLhyphen"/>cie was in the height of its vanishing glory (and wee are con<g ref="char:EOLhyphen"/>fident, will remain in the despight of all cruelty) even when they were plotting and threatning the ruine of all those which opposed it, and wee hope you will not say, wee sinned in seperating from them, whose errors you now condemne, and yet, if you shall still continue to brand us with the names of <hi>Anabaptists, Schismaticks, Hereticks, &amp;c.</hi> for saving our selves from such a Generation, <hi>Acts</hi> 2.40. as you your selves have cut-off, and from such a superstitious Worship, as you say shall be reformed; wee conceive it is your ignorance, or worse, and though you condemne us, Christ will justifie us,
+<pb n="7" facs="tcp:113104:6"/> even by that Word of his, which he hath given us, and wee desire to practise, and have already commended to you in that conclusion of our Answer to the first querie.</p>
+               <p>And for the second part of your querie, <hi>That wee disturbe the great Worke of Reformation now in hand;</hi> I know not what you meane by this charge, unlesse it be to discover your pre<g ref="char:EOLhyphen"/>judice against us, in Reforming our selves before you, for as yet we have not in our understanding seen, neither can wee conceive any thing of that we shal see reformed by you accor<g ref="char:EOLhyphen"/>ding to Truth, but that through Mercie, wee enjoy the pra<g ref="char:EOLhyphen"/>ctise of the same already; 'tis strange this should be a distur<g ref="char:EOLhyphen"/>bance; to the ingenious faithfull Reformer; it should be, (one would think) a furtherance rather then a disturbance: and whereas you tell us of the worke of Reformation now in hand, no reasonable men will force us to desist from the pra<g ref="char:EOLhyphen"/>ctise of that which we are perswaded is according to Truth, and waite for that, which we know not what it will be; and in the meane time, practise that which you your selves say must be reformed: but whereas you tell us of a great Worke of Reformation, wee should intreat you to shew us wherein the greatnesse of it doth consist, for as yet wee see no great<g ref="char:EOLhyphen"/>nesse, unlesse it be in the vast expence of Money and Time: for what great thing is it to change <hi>Episcopacie</hi> into <hi>Presbytery,</hi> and a Book of <hi>Common Prayer</hi> into a <hi>Directory,</hi> and to exalt men from Livings of 100 l. a yeere, to places of 400 l. <hi>per An<g ref="char:EOLhyphen"/>num:</hi> for I pray you consider, is there not the same power, the same Priests, the same People, the same Worship, and in the same manner still continued, but when wee shall see your great worke of Reformation to appeare, that you have fra<g ref="char:EOLhyphen"/>med your Congregations according to that true &amp; unchange<g ref="char:EOLhyphen"/>able Pattern, 1 <hi>Cor.</hi> 3.9, 10, 11. according to the command of our Saviour, <hi>Mat.</hi> 28.19, 20. and the Apostles practise, <hi>Act.</hi> 2.41. and <hi>chap.</hi> 5.13, 14. and made all things suitable to the Pat<g ref="char:EOLhyphen"/>tern, as <hi>Moses</hi> did, <hi>Exod.</hi> 25.40. <hi>Heb.</hi> 8.5. you will see, I hope, that wee shall be so farre from disturbing that Worke, as that wee shall be one with it.</p>
+            </div>
+            <div n="3" type="query">
+               <pb n="8" facs="tcp:113104:7"/>
+               <head>
+                  <hi>QUERIE. III.</hi> What warrant have you either to be a member, much lesse a minister of any such Congregations?</head>
+               <p>
+                  <hi>An.</hi> This querie, as I conceive, is added more for number then for weight, if we can prove our Congregations true, our membership must needs be true, and so not to be questioned; I would not speake any more to this querie, but that I see you pinch so hard upon our Separation in foure of your que<g ref="char:EOLhyphen"/>ries, to which I shall give a more full answer to prove our Seperation true from your Assemblies; and first it cannot be denied, but <hi>JESƲS CHRIST</hi> is of the Father anointed to be the head of the Church, which is his body. <hi>Ephes.</hi> 1.20, 22, 23. <hi>Col.</hi> 1.18. and that we are commanded onely to heare him, <hi>Deut.</hi> 18.15. <hi>Act.</hi> 3.22. and 7.37. <hi>Matth.</hi> 17.5. 2 <hi>Pet.</hi> 1.17. and that whosoever will not heare and obey him, the Lord will require it at his hands, <hi>Deut.</hi> 18.19. <hi>Act.</hi> 3.27. <hi>Mat.</hi> 7.26, 27. and hereby wee know wee love God, and hee loves us, when we keep his Commandements. 1 <hi>John.</hi> 2.3. and 5.2, 3. Now then, if wee cannot keep faith and a good Con<g ref="char:EOLhyphen"/>science, in obeying all the Commands of Christ, so long as we assemble our selves with you, then are wee necessitated to seperate our selves from you, but that wee cannot keep faith and a good Conscience so with you, these Scriptures proves, compared with your practise, 2 <hi>Thess.</hi> 3.6. 1 <hi>Cor.</hi> 5.11. 2 <hi>Tim.</hi> 2.21. and 3.5. <hi>Ephe.</hi> 5.1. to the 14. with many other Scriptures, but in the mouth of two or three witnesses every truth shall stand; now then, so long as you denie to follow the rule of Je<g ref="char:EOLhyphen"/>sus Christ, and are not obedient to his commands, but reject the Word of God, which is given by Christ for the purging of the wicked from the godly, and the seperating the precious from the vile, as <hi>Matth.</hi> 18.15, 16, 17. 1 <hi>Cor.</hi> 5.4.5.11.13. wee are bound in obedience to <hi>JESƲS CHRIST,</hi> to leave you, whilst you remaine obstinate to him, and joyne to<g ref="char:EOLhyphen"/>gether, and continue faithfull in the order of the Gospel.</p>
+               <pb n="9" facs="tcp:113104:7"/>
+               <p>And as it is with a naturall bodie, which is greedy to re<g ref="char:EOLhyphen"/>ceive in all, yet wants power to voide the excrements, must needs become a rotten, filthie and uncleane body, even so it is with all false spirituall states, who by Power and Authori<g ref="char:EOLhyphen"/>ty given to them by the Civill Magistrate, are so hasty to com<g ref="char:EOLhyphen"/>mand all, both rich and poor to subject to their Worship, whether their Conscience be brought over to see it a truth or no, or else they may not live amongst them, or use any traf<g ref="char:EOLhyphen"/>fique with them, <hi>Rev.</hi> 13.16, 17. and having so received them into the common Gorge of their Church, have not power to digest them into better conversation, nor to cast them out as durt and dung, though incorrigible; this Congregation or Society must needs become rotten, filthy and impure, <hi>the hould of all soule spirits, and a Cage for every uncleane Bird, Revel.</hi> 18.<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. now I would but appeale to any reasonable religious men, whether <hi>England</hi> hath not at this time in her as hatefull birds as any nation whatsoever? and whether there be not at this day an authoritie to force in all to Worship; the daily expe<g ref="char:EOLhyphen"/>rience of this may be seene by the practise of those which would be owned the most knowing learned men of our times, who will have men to Worship with them against their wills, and so makes them at the best but formall hypo<g ref="char:EOLhyphen"/>crites, and therefore when these things doe so appeare, is it not high time to hearken to the voice of the Apostle, <hi>Act.</hi> 2.40. to save our selves from such a generation, and to come out from them, <hi>Rev.</hi> 18.4. now if these spoken of, with many other, which might be brought, as the quenching of the spi<g ref="char:EOLhyphen"/>rit, and despising Prophesie, so that no man may speake in your publike exercises, but one that hath the same Call and power, as those whom you now have cast off, contrary to these Scriptures. 1 <hi>Pet.</hi> 4.10. <hi>Heb.</hi> 10.25. <hi>Colloss.</hi> 3.16. <hi>Ephe.</hi> 4.15, 16. 1 <hi>Cor.</hi> 12.7, 8. and 14.24.26.31.39. as also all your superstitious Consecrations, to the great deluding of poor ig<g ref="char:EOLhyphen"/>norant people, and ingaging them against those which wor<g ref="char:EOLhyphen"/>ship any where save in your High Places, contrary to these expresse Texts of Scripture, <hi>Joh.</hi> 4.20.24. as also the continu<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:113104:8"/> of Tythes and offerings of the people, as if Christ were not come in the flesh, as if the Clergie of that Kingdom were the tenth part of that Kingdome for number, when as they themselves will tell God in their Prayers, <hi>That the harvest in great, but the Labourers are but few,</hi> an act so unjust by them to be demanded, that reason would abhorre, that a <hi>few</hi> men in a Kingdome should have the tenth part of the riches of the Kingdome, and yet so eagerly persued by them, that though the paying of it, be to the undoing of men, they will have it, and therefore following men of Authority, at bed and board, in Pulpit and Private Chamber, to have power put into their hands to that end, as likewise their crueltie in refusing a place of buriall in their consecrated ground, except they have so much money, as perhaps the parties have not in all the world to give them, all which considered, with many more, I desire you to consider of, and if yet it be not a sufficient ground to you for the confirmation of our just seperation; yet know it is to us: and unlesse you can shew us that Christ Je<g ref="char:EOLhyphen"/>sus is not to be hearkened unto as well in those Scriptures gi<g ref="char:EOLhyphen"/>ven for the establishment of the New Testament, as <hi>Moses</hi> was in the establishment of the Old, and under the penaltie of the same and greater judgemens then was inflicted upon the breaches of the same, as <hi>Heb.</hi> 2.1.5. and the Third <hi>chap.</hi> from the first verse to the ninth, and <hi>chap.</hi> 10.21. to 31. and <hi>chap.</hi> 11. from 22. to the end doe declare; and therefore wee cannot, nay we dare not but continue in this our practise, and wit<g ref="char:EOLhyphen"/>nesse the truth of it, even by sufferings, though others op<g ref="char:EOLhyphen"/>pose it.</p>
+            </div>
+            <div n="4" type="query">
+               <head>
+                  <hi>QUERIE. IV.</hi> What warrant have you to admit into your seperate Congre<g ref="char:EOLhyphen"/>gations silly seduced servants, children or people?</head>
+               <p>
+                  <hi>Ans.</hi> I see our seperated Congregations sticks very hard upon your stomack, therefore as I have laboured to help you
+<pb n="11" facs="tcp:113104:8"/> to digest our seperation, so I hope I shall give you something from the Word of Truth, that may remove your imbittered<g ref="char:EOLhyphen"/>nesse of Spirit against our Congregations: and first know this, that that infinite Love which hath redeemed a people to God out of all Nations, tongues, and kindred, hath also made them Kings and Priests unto God, to reigne with him in his spirituall Kingdome here on the earth, <hi>Rev.</hi> 5.9, 10. and that all those which are begotten by the immortall seed, 1 <hi>Pet.</hi> 1.23. even those new-borne babes that have tasted of the Lords bountie, and come to that living and precious Stone, the Lord <hi>JESƲS,</hi> being themselves <hi>living stones, are built up a spirituall house, being made a holy Priesthood, to offer up spirituall sacrifices, acceptable to God by JESƲS CHRIST,</hi> 1 <hi>Pet.</hi> 2.1. to the 11. vers. <hi>and being quickned by Christ, are raised with him, to sit together in heavenly places. Eph.</hi> 2.5, 6. <hi>being by one spirit Bap<g ref="char:EOLhyphen"/>tized into one body.</hi> 1 <hi>Cor.</hi> 12.13. <hi>The old man being buri<g ref="char:EOLhyphen"/>ed with him,</hi> Rom. 6.4. and the <hi>New man</hi> put on. <hi>Gal.</hi> 3.27. <hi>Col.</hi> 3, 10. <hi>thus having an entranc to the Father, the building be<g ref="char:EOLhyphen"/>ing thus coupled together, by the same spirit, groweth to an holy Temple,</hi> and so becomes a habitation to the Lord, <hi>Ephes.</hi> 2.18. to the 22. which assemblie wee are not to forsake, <hi>Heb.</hi> 10.25. but to exhort one another daily, <hi>Heb.</hi> 3.12, 13. having re<g ref="char:EOLhyphen"/>ceived gifts in some measure by the same spirit, we are accor<g ref="char:EOLhyphen"/>dingly to dispence them for edification, 1 <hi>Cor.</hi> 12.47. 1 <hi>Pet.</hi> 4.10. <hi>Rom.</hi> 12.3. to 9. to these Congregations, hath Christ promised his presence, <hi>Matth.</hi> 28.19, 20. and 18.19.20. <hi>Rev.</hi> 7.13, 14, 15. &amp; 21.2, 3. and 22.13. Now then, if we can prove our selves to be such Congregations as are before spoken of, or at leastwise, such as sincerely and truly strive, according to the light we have, to be such; then I hope you will be so farre from dispising such gatherings of the Saints together, as that you will not denie them to receive in members, and to di<g ref="char:EOLhyphen"/>spence such gifts for the edifying one of another, as the Lord hath given us, and this I shall labour to doe in the Answer to the next querie; and whereas you demand what warrant wee have to receive silly seduced Servants, &amp;c. Wee answer, it is
+<pb n="12" facs="tcp:113104:9"/> well knowne to you, wee receive in none as members with us, but such as have been Members of your Church at the least sixteen, twenty or thirty yeers, and if they be silly when they are received Members amongst us, surely they were mar<g ref="char:EOLhyphen"/>veilous silly when they were received members amongst you, and it should seem, they have received, by your own words, little Edification in their so long membership with you, and therefore it doth behove them, whom you say are so silly, to look out also where to be better instructed, who have recei<g ref="char:EOLhyphen"/>ved so little benefit in so long time by your Ministery, lest they perish in their owne ignorance and blindnesse, and therefore herein you would doe well to take our Saviours advice, <hi>Mat.</hi> 7.3, 4, 5. wee know it is no strange thing for those that desire to walke in the straight wayes of the Lord, to heare them<g ref="char:EOLhyphen"/>selves despised and reproached with these and farre greater aspersions, but however, that such as are so esteemed of by you, have a right to be received into the fellowship of the Saints, these Scriptures prove, which I pray you examine. <hi>Prov.</hi> 9.1. to the 7. <hi>Isai.</hi> 14 32. and 18.7. 1 <hi>Cor.</hi> 1.26.27, 28. <hi>Rom.</hi> 14.5.</p>
+            </div>
+            <div n="5" type="query">
+               <head>
+                  <hi>QUERIE V.</hi> How can you vindicate by the Word of God, your Anabapti<g ref="char:EOLhyphen"/>sticall way, from the sinfull guile of notorious Schisme, and dise<g ref="char:EOLhyphen"/>ction from all the Reformed Churches?</head>
+               <p>
+                  <hi>Ans.</hi> They that run may reade what fire this pen and heart was inflamed withall in the writing and inditing this querie; but first of all, if by <hi>Reformed Churches,</hi> you mean those Churches planted by the Apostles in the Primative times, which are the platforme for all Churches in all ages to look unto, to be guided by these Apostolicall Rules left them; wee then shall vindicate by the Word of God our Anabaptisticall way, as you are pleased to call it, from that guile; and first, although wee confesse our selves ignorant of many things,
+<pb n="13" facs="tcp:113104:9"/> which we ought to know and desire, to waight daily for the further discoveries of Light and truth, from him which is the only giver of it to his poor people, yet so far as we are come, we desire to walke by the same Rule they did, and first of all, wee Baptize none into Christ Jesus, but such as professe faith in Christ Jesus, <hi>Rom.</hi> 6.3. by which faith they are made sonnes of God, and so having put on Christ, are Baptized into Christ, <hi>Gal.</hi> 3.26, 27. and that Christ hath commanded this, and no other way of Baptisme, See <hi>Matth.</hi> 28.19. <hi>Mark.</hi> 1.4, 5. <hi>Luke</hi> 3.7, 8. and that this also was the Practise of the Apo<g ref="char:EOLhyphen"/>stles, See <hi>Acts</hi> 2.41. and 8.12.36, 37 and 10.47, 48. and that being thus baptized upon profession of Faith, they are then added to the Church, 2 <hi>Act.</hi> 41. and being added to the Church, wee conceive our selves bound to watch over one another, and in case of sinne, to deale faithfully one with another according to these Scriptures, <hi>Levit.</hi> 19.17, 18. <hi>Matth.</hi> 18.15. and if they remain obstinate, to cast them out, as those that are not fit to live in the Church, according to that Rule, 2 <hi>Cor.</hi> 5.4, 5. <hi>Matth.</hi> 18.19, 30. by all which, and many other parteculars I might name, it appears through Mercy, we can free our selves from that guile; and truely, if your eyes were opened to peruse your own practises and wayes, you would then see wee could better free our selves from that notorious guile of Schisme from those <hi>Reformed Churches,</hi> then you can free your selves from the notorious guile of Schismying from <hi>Rome;</hi> For 1. You hold their Baptisme true, their Ordina<g ref="char:EOLhyphen"/>tion of Ministers true, their maintenance by Tythes and Of<g ref="char:EOLhyphen"/>ferings true, their people all fit matter for a Church, and so true, and yet you will seperate from them for some Corrup<g ref="char:EOLhyphen"/>tions; now for our parts, wee denie all and every one of these amongst you to be true, and therefore doe seperate from you; so then, when you have made satisfaction for your notorious Schisme, and returne as dutifull Sonnes to their Mother, or else have cast off all your filthty Rubbish of her abominations which are found amongst you, we will returne to you, or shew our just grounds to the contrary.</p>
+            </div>
+            <div n="6" type="query">
+               <pb n="14" facs="tcp:113104:10"/>
+               <head>
+                  <hi>QUERIE VI.</hi> Whether you, and such like pretended Teachers as you are, be not the Persons Carractrised and condemned in these and such like Scriptures following, Matth. <hi>7.15.</hi> Act. <hi>20.29, 30.</hi> Rom. <hi>16.17, 18. 2</hi> Tim. <hi>3.6, 7, 8, 9. 2</hi> Pet. <hi>2.1, 2, 3.17, 18, 19.</hi> Jude vers. <hi>4.8.10.12, 13, 14.</hi>
+               </head>
+               <p>
+                  <hi>Ans.</hi> Although (as far as I am acquainted with my own heart) neither I, nor such as I, am thirsty after revenge, yet we could desire that the LORD would be pleased to mani<g ref="char:EOLhyphen"/>fest the innocensie of our Spirits, and uprightnesse of our in<g ref="char:EOLhyphen"/>tentions in all such our actions against such false suppositions, or rather Calumnies cast upon us, I shall only Cite one of those Texts, and comment a little upon it, <hi>Matth.</hi> 7.15, 16. the words are these, <hi>Beware of false Prophets, that come to you in sheeps clothing, but inwardly they are ravening Wolves;</hi> yee shall know them by their fruit; Christ Jesus himselfe makes the best description how these false Prophets may be knowne, which is by the observation of the fruit, Christ in these words compared implicitely, a true Prophet to a sheep, now it is the nature of sheep to be harmlesse, silent, and to feed in the Commons, where the shortest pasture usually is, so is it the propertie of a true Prophet of Christ, to be harmlesse in his conversation, silent under all his sufferings that hee meets withall from unreasonable men, and to be contented with the meanest enjoyments of this World, so hee may honour Jesus Christ in his condition, no way warring after great matters, in compelling men by a law to feed in the fattest pa<g ref="char:EOLhyphen"/>sture in the land, and as the Apostle <hi>Paul</hi> saith, 2 <hi>Cor.</hi> 10.3. <hi>though we are in the flesh, we doe not warre after the flesh.</hi>
+               </p>
+               <p>But a Wolfe, even in Sheeps clothing, to which false Pro<g ref="char:EOLhyphen"/>phets are compared, even whilst they are thus clad, may be knowne by their fruit, which will appear in these two things. First by their ravenous disposition, and secondly, By their of<g ref="char:EOLhyphen"/>ten snarling with their teeth; so you shall find false Prophets
+<pb n="15" facs="tcp:113104:10"/> in sheeps cloathing, they are alwayes ravening after Honours, and therefore, like frogges, creep into Kings Houses, that they may be looked upon as fellowes with the best of the Kings houshold servants, and ravening after riches, to feed in the fairest pastures of a Kingdome, Crying, give, give, and therefore runne from Living to living, where they may have the greatest enjoyments of the World, and secondly, they will alwayes be snarling with their teeth, that is, ready to devoure and persecute all that shall by their practises in a way that is more holy then their owne, derogate from their ho<g ref="char:EOLhyphen"/>nours and names, and fatt enjoyments in the World; I cease to apply this, but desire the Lord to give you discerning eyes, to see betwixt Light and darknesse; thus at present have I given you a briefe Answer to your Queries, leaving them to the triall of truth, and you in the perusall of them, to the di<g ref="char:EOLhyphen"/>rection of him that leads into all truth, ever resting,</p>
+               <closer>
+                  <signed>Yours so farre as he shall know his duty, WILLIAM KIFFEN.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
